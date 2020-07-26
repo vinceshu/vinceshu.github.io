@@ -37,13 +37,6 @@
   </url>
   
   <url>
-    <loc>http://yoursite.com/books/index.html</loc>
-    
-    <lastmod>2019-08-01T11:17:12.000Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://yoursite.com/categories/index.html</loc>
     
     <lastmod>2019-08-01T11:17:12.000Z</lastmod>
@@ -51,7 +44,14 @@
   </url>
   
   <url>
-    <loc>http://yoursite.com/links/index.html</loc>
+    <loc>http://yoursite.com/tags/index.html</loc>
+    
+    <lastmod>2019-08-01T11:17:12.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/books/index.html</loc>
     
     <lastmod>2019-08-01T11:17:12.000Z</lastmod>
     
@@ -65,7 +65,7 @@
   </url>
   
   <url>
-    <loc>http://yoursite.com/tags/index.html</loc>
+    <loc>http://yoursite.com/links/index.html</loc>
     
     <lastmod>2019-08-01T11:17:12.000Z</lastmod>
     
