@@ -2,70 +2,77 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://yoursite.com/about/index.html</loc>
+    <loc>http://vinceshu.cn/2020/07/26/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%9C%A8%E9%98%BF%E9%87%8C%E4%BA%91%E4%B8%8A%E9%83%A8%E7%BD%B2%E7%9A%84hexo%E5%8D%9A%E6%96%87/</loc>
+    
+    <lastmod>2020-07-26T13:38:42.775Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://vinceshu.cn/2020/07/26/1%E3%80%81%E5%8D%95%E5%85%83%E6%B5%8B%E8%AF%95&%E5%8F%8D%E5%B0%84&%E6%B3%A8%E8%A7%A3/</loc>
+    
+    <lastmod>2020-07-26T09:49:24.507Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://vinceshu.cn/about/index.html</loc>
     
     <lastmod>2020-07-25T10:58:32.843Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yoursite.com/2020/07/24/hello-world/</loc>
-    
-    <lastmod>2020-07-24T14:04:49.517Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/2020/07/24/java-two/</loc>
+    <loc>http://vinceshu.cn/2020/07/24/java-two/</loc>
     
     <lastmod>2020-07-24T11:27:17.100Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yoursite.com/2020/07/21/java-one/</loc>
+    <loc>http://vinceshu.cn/2020/07/21/java-one/</loc>
     
     <lastmod>2020-07-24T11:27:13.158Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yoursite.com/404.html</loc>
+    <loc>http://vinceshu.cn/repository/index.html</loc>
     
     <lastmod>2019-08-01T11:17:12.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yoursite.com/books/index.html</loc>
+    <loc>http://vinceshu.cn/404.html</loc>
     
     <lastmod>2019-08-01T11:17:12.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yoursite.com/categories/index.html</loc>
+    <loc>http://vinceshu.cn/categories/index.html</loc>
     
     <lastmod>2019-08-01T11:17:12.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yoursite.com/tags/index.html</loc>
+    <loc>http://vinceshu.cn/tags/index.html</loc>
     
     <lastmod>2019-08-01T11:17:12.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yoursite.com/links/index.html</loc>
+    <loc>http://vinceshu.cn/links/index.html</loc>
     
     <lastmod>2019-08-01T11:17:12.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yoursite.com/repository/index.html</loc>
+    <loc>http://vinceshu.cn/books/index.html</loc>
     
     <lastmod>2019-08-01T11:17:12.000Z</lastmod>
     
