@@ -44,21 +44,7 @@
   </url>
   
   <url>
-    <loc>http://vinceshu.cn/404.html</loc>
-    
-    <lastmod>2019-08-01T11:17:12.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://vinceshu.cn/categories/index.html</loc>
-    
-    <lastmod>2019-08-01T11:17:12.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://vinceshu.cn/tags/index.html</loc>
+    <loc>http://vinceshu.cn/books/index.html</loc>
     
     <lastmod>2019-08-01T11:17:12.000Z</lastmod>
     
@@ -72,7 +58,21 @@
   </url>
   
   <url>
-    <loc>http://vinceshu.cn/books/index.html</loc>
+    <loc>http://vinceshu.cn/tags/index.html</loc>
+    
+    <lastmod>2019-08-01T11:17:12.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://vinceshu.cn/404.html</loc>
+    
+    <lastmod>2019-08-01T11:17:12.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://vinceshu.cn/categories/index.html</loc>
     
     <lastmod>2019-08-01T11:17:12.000Z</lastmod>
     
